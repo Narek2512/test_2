@@ -1,4 +1,4 @@
-user_name = "Narek"
+user_name = "Davit"
 user_password = "1234"
 Narek_balance = 0
 today_cash_in = 0
