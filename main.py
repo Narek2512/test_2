@@ -5,6 +5,10 @@ today_cash_in = 0
 today_cash_out = 0
 today_transfers = 0
 
+
+for i in range(0, 10):
+    print(i)
+
 user2_name = "Hayk"
 Hayk_balance = 0
 
